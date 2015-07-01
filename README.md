@@ -9,7 +9,7 @@ Repositório Destinado a centralizar os contatos dos integrantes da comunidade P
 | Humberto Rocha | humrochagf@gmail.com | [@humrochagf](http://twitter.com/humrochagf) | [@humrochagf](http://github.com/humrochagf) |
 | Marco Rougeth | marco@rougeth.com | [@marcorougeth](http://twitter.com/marcorougeth) | [@rougeth](http://github.com/rougeth) |
 | Pedro Henrique | pedrohenriqueacruz@gmail.com | [@phinfonet](http://twitter.com/phinfonet) | [@phinfonet](http://github.com/phinfonet) |
-| Gilson Filho | contatogilsonsbf@gmail.com | [@gilsonfilho](http://twitter.com/gilsonfilho) | [@gilsondev](http://github.com/gilsondev) |
+| Gilson Filho | me@gilsondev.in | [@gilsonfilho](http://twitter.com/gilsonfilho) | [@gilsondev](http://github.com/gilsondev) |
 | Dirley Rodrigues | N/A | [@dirleyrls](http://twitter.com/dirleyrls) | [@ravishi](http://github.com/ravishi) |
 | Wagner Santos | wagnerjs.unb@gmail.com | [@wagnerjsantos](http://twitter.com/wagnerjsantos) | [@wagnerjs](http://github.com/wagnerjs) |
 | Israel P. Siqueira | israelps@gmail.com | [@israelps](http://twitter.com/israelps) | [@israelps](http://github.com/israelps) |
