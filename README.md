@@ -14,3 +14,4 @@ Repositório Destinado a centralizar os contatos dos integrantes da comunidade P
 | Wagner Santos | wagnerjs.unb@gmail.com | [@wagnerjsantos](http://twitter.com/wagnerjsantos) | [@wagnerjs](http://github.com/wagnerjs) |
 | Israel P. Siqueira | israelps@gmail.com | [@israelps](http://twitter.com/israelps) | [@israelps](http://github.com/israelps) |
 |Jader Martins | jadermcs94@gmail.com | [@jadermcs](https://twitter.com/jadermcs) | [@jadermcs](https://github.com/jadermcs) |
+| decko | decko@birosca.mobi | [@decko](https://twitter.com/decko) | [@decko](https://github.com/decko) |
