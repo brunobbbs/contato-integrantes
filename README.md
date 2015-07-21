@@ -15,3 +15,4 @@ Repositório Destinado a centralizar os contatos dos integrantes da comunidade P
 | Israel P. Siqueira | israelps@gmail.com | [@israelps](http://twitter.com/israelps) | [@israelps](http://github.com/israelps) |
 |Jader Martins | jadermcs94@gmail.com | [@jadermcs](https://twitter.com/jadermcs) | [@jadermcs](https://github.com/jadermcs) |
 | decko | decko@birosca.mobi | [@decko](https://twitter.com/decko) | [@decko](https://github.com/decko) |
+| Bruno Barbosa | bsbruno1@gmail.com | [@brunobbbs](https://twitter.com/brunobbbs) | [@brunobbbs](https://github.com/brunobbbs) |
